@@ -1,2 +1,2 @@
-# HTML-intro
-contains set of activities for Application Development and Emerging Technologies
+# HTML
+Contains Week-4 activities for Application Development and Emerging Technologies
