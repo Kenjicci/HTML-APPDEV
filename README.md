@@ -7,5 +7,3 @@ Username: Kenjicci
 
 Auth2: Magdayao, Frances Bea V.  
 Username: ampalayaa
-
-
